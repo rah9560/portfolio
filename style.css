@@ -259,8 +259,20 @@ section#socials .card svg {
 		width: 130px;
 		height: 130px;
 	}
+	.resume{
+		background-color: #111418;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 48%;
+	}
 }
-.down{
-	position: absolute;
-	left:625px;
+.resume{
+	background-color: #111418;
+	height: 200px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 48%;
 }
